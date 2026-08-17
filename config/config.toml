@@ -1,0 +1,37 @@
+# Gem Configuration v2.0.1
+
+[provider]
+name = "openrouter"
+model = "dots-studio/dots-3-note-preview:free"
+base_url = "https://openrouter.ai/api/v1"
+api_key = "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"
+temperature = 0.7
+max_tokens = 1032
+
+[local_model]
+enabled = true
+max_ram_mb = 512
+threads = 4
+context_len = 2048
+
+[ram]
+max_usage_percent = 80
+warn_percent = 70
+max_history_mb = 50
+
+[agent]
+max_iterations = 50
+command_timeout = 120
+auto_continue = true
+context_token_budget = 24000
+
+[server]
+host = "127.0.0.1"
+port = 8000
+
+[ui]
+theme = "dark"
+show_banner = true
+spinners = true
+markdown = true
+boxed_output = true
