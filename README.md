@@ -1,7 +1,8 @@
 <div align="center">
 
 
-                   💎
+                    💎
+                    
 ### Agentic AI Ecosystem by HintyCloud
 
 [![Version](https://img.shields.io/badge/version-2.0.1-cyan?style=for-the-badge)](https://github.com/HintyCloud/Gem-Cli/releases)
@@ -69,7 +70,7 @@ Switch in chat with `/provider openai` or `/model gpt-4o`.
 ## 🧠 Local Model (Offline Mode)
 
 ```bash
-# Download Qwen 2.5 Coder 0.5B (GGUF, ~400MB)
+# Download Offline model (GGUF, ~400MB)
 bash scripts/download-model.sh
 
 # Setup llama.cpp
@@ -170,49 +171,6 @@ Gem monitors memory to prevent crashes:
 - Refuses local model if RAM critical
 - `/ram` command shows real-time usage
 
-## 📦 Package Structure
-
-```
-GemHinty/
-├── binário/              # Pre-compiled binaries (8)
-│   ├── gem-linux-amd64       # Linux x86_64
-│   ├── gem-linux-arm64       # Linux ARM64
-│   ├── gem-darwin-amd64      # macOS Intel
-│   ├── gem-darwin-arm64      # macOS Apple Silicon
-│   ├── gem-windows-amd64.exe # Windows x86_64
-│   ├── gem-windows-arm64.exe # Windows ARM64
-│   ├── gem-rust-linux-amd64  # Rust binary
-│   └── gem-c-linux-amd64     # C binary (~77KB)
-├── etc/                  # Source implementations (7)
-│   ├── gem-python/       # Python (reference)
-│   ├── gem-go/           # Go (compiled binaries)
-│   ├── gem-rust/         # Rust
-│   ├── gem-c/            # C (ultra-light)
-│   ├── gem-node/         # Node.js/TypeScript
-│   ├── gem-bash/         # Bash (universal)
-│   └── gem-java/         # Java
-├── plugins/              # Plugin system
-│   ├── core/             # 8 official plugins
-│   ├── community/        # Community plugins
-│   └── .registry/        # Plugin registry
-├── bugs/                 # Bug report templates
-├── config/               # Configuration
-├── data/                 # Runtime data (models, llama.cpp)
-├── scripts/              # Setup scripts
-├── site/                 # Website source (Next.js)
-├── site.zip              # Website bundle
-└── install.sh            # One-command installer
-```
-
-## 🔑 Environment Variables
-
-| Variable | Description |
-|----------|-------------|
-| `GEM_API_KEY` | API key (highest priority) |
-| `OPENROUTER_API_KEY` | OpenRouter key |
-| `OPENCODE_API_KEY` | OpenCode key |
-| `GEM_MODEL` | Override model |
-| `GEM_BASE_URL` | Override provider URL |
 
 ## 🏗️ Build from Source
 
@@ -237,8 +195,8 @@ See [bugs/README.md](bugs/README.md) for the template.
 
 <div align="center">
 
-**[HintyCloud](https://hintycloud.com)** · **[gem.sh](https://gem.sh)** · **[Discord](https://discord.gg/hintycloud)**
+**[HintyCloud](https://platformhintycloud.vercel.app)· **
 
-Made with 💎 by HintyCloud
+Copyright © 2026 - 2026 Hintycloud 
 
 </div>
