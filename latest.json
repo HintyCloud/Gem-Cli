@@ -1,0 +1,14 @@
+{
+  "version": "2.0.1",
+  "tag": "v2.0.1",
+  "date": "2026-08-16",
+  "notes": "Major update: OpenRouter as default provider, platform selection system, local model support, plugin system, enterprise UI, RAM management",
+  "assets": [
+    {"name": "gem-linux-amd64", "platform": "linux/amd64", "url": "https://github.com/HintyCloud/Gem-Cli/releases/download/v2.0.0/gem-linux-amd64"},
+    {"name": "gem-linux-arm64", "platform": "linux/arm64", "url": "https://github.com/HintyCloud/Gem-Cli/releases/download/v2.0.0/gem-linux-arm64"},
+    {"name": "gem-darwin-amd64", "platform": "darwin/amd64", "url": "https://github.com/HintyCloud/Gem-Cli/releases/download/v2.0.0/gem-darwin-amd64"},
+    {"name": "gem-darwin-arm64", "platform": "darwin/arm64", "url": "https://github.com/HintyCloud/Gem-Cli/releases/download/v2.0.0/gem-darwin-arm64"},
+    {"name": "gem-windows-amd64.exe", "platform": "windows/amd64", "url": "https://github.com/HintyCloud/Gem-Cli/releases/download/v2.0.0/gem-windows-amd64.exe"},
+    {"name": "gem-windows-arm64.exe", "platform": "windows/arm64", "url": "https://github.com/HintyCloud/Gem-Cli/releases/download/v2.0.0/gem-windows-arm64.exe"}
+  ]
+}
