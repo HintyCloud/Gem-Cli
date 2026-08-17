@@ -1,0 +1,118 @@
+{
+  "version": "2.0.1,
+  "updated": "2026-08-16",
+  "plugins": {
+    "core": [
+      {
+        "name": "gem-plugin-git",
+        "version": "1.0.0",
+        "description": "Advanced Git/GitHub/GitLab integration",
+        "author": "HintyCloud",
+        "category": "tools",
+        "downloads": 15420,
+        "rating": 4.9
+      },
+      {
+        "name": "gem-plugin-docker",
+        "version": "1.0.0",
+        "description": "Docker and container management",
+        "author": "HintyCloud",
+        "category": "tools",
+        "downloads": 8930,
+        "rating": 4.8
+      },
+      {
+        "name": "gem-plugin-web",
+        "version": "1.0.0",
+        "description": "Web scraping, browsing, and automation",
+        "author": "HintyCloud",
+        "category": "tools",
+        "downloads": 12100,
+        "rating": 4.7
+      },
+      {
+        "name": "gem-plugin-db",
+        "version": "1.0.0",
+        "description": "Database operations (SQL, NoSQL, migrations)",
+        "author": "HintyCloud",
+        "category": "tools",
+        "downloads": 6750,
+        "rating": 4.6
+      },
+      {
+        "name": "gem-plugin-deploy",
+        "version": "1.0.0",
+        "description": "Deployment automation (AWS, GCP, Vercel)",
+        "author": "HintyCloud",
+        "category": "tools",
+        "downloads": 5430,
+        "rating": 4.5
+      },
+      {
+        "name": "gem-plugin-lint",
+        "version": "1.0.0",
+        "description": "Code linting and formatting (ESLint, Prettier, etc.)",
+        "author": "HintyCloud",
+        "category": "tools",
+        "downloads": 9870,
+        "rating": 4.8
+      },
+      {
+        "name": "gem-plugin-test",
+        "version": "1.0.0",
+        "description": "Test runner integration (Jest, pytest, etc.)",
+        "author": "HintyCloud",
+        "category": "tools",
+        "downloads": 7650,
+        "rating": 4.7
+      },
+      {
+        "name": "gem-plugin-k8s",
+        "version": "1.0.0",
+        "description": "Kubernetes operations and management",
+        "author": "HintyCloud",
+        "category": "tools",
+        "downloads": 4320,
+        "rating": 4.6
+      }
+    ],
+    "community": [
+      {
+        "name": "gem-plugin-azure",
+        "version": "0.3.0",
+        "description": "Azure OpenAI provider",
+        "author": "community",
+        "category": "providers",
+        "downloads": 2100,
+        "rating": 4.3
+      },
+      {
+        "name": "gem-plugin-cohere",
+        "version": "0.2.0",
+        "description": "Cohere AI provider",
+        "author": "community",
+        "category": "providers",
+        "downloads": 1450,
+        "rating": 4.2
+      },
+      {
+        "name": "gem-plugin-redis",
+        "version": "0.4.0",
+        "description": "Redis memory backend",
+        "author": "community",
+        "category": "memory",
+        "downloads": 3200,
+        "rating": 4.5
+      },
+      {
+        "name": "gem-plugin-security",
+        "version": "0.1.0",
+        "description": "Security audit agent",
+        "author": "community",
+        "category": "agents",
+        "downloads": 1890,
+        "rating": 4.4
+      }
+    ]
+  }
+}
