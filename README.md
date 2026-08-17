@@ -1,22 +1,21 @@
 <div align="center">
 
-# 💎 Gem
 
+                   💎
 ### Agentic AI Ecosystem by HintyCloud
 
-[![Version](https://img.shields.io/badge/version-2.0.0-cyan?style=for-the-badge)](https://github.com/HintyCloud/Gem-Cli/releases)
-[![License](https://img.shields.io/badge/license-proprietary-blue?style=for-the-badge)](./LICENSE)
+[![Version](https://img.shields.io/badge/version-2.0.1-cyan?style=for-the-badge)](https://github.com/HintyCloud/Gem-Cli/releases)
+[![License](https://img.shields.io/badge/license-GNU-Public-3.0-blue?style=for-the-badge)](./LICENSE)
 [![Platforms](https://img.shields.io/badge/platforms-linux%20%7C%20macOS%20%7C%20windows-green?style=for-the-badge)](https://gem.sh/download)
 [![Providers](https://img.shields.io/badge/providers-6-orange?style=for-the-badge)](https://gem.sh/plugins)
 [![Free Models](https://img.shields.io/badge/free_models-6+-brightgreen?style=for-the-badge)](https://gem.sh/docs)
 [![Languages](https://img.shields.io/badge/implementations-7-yellow?style=for-the-badge)](https://gem.sh/docs)
 [![Plugins](https://img.shields.io/badge/plugins-8%20core-purple?style=for-the-badge)](https://gem.sh/plugins)
-[![Discord](https://img.shields.io/discord/1234567890?style=for-the-badge&label=discord&color=5865F2)](https://discord.gg/hintycloud)
 
 **Gem is a complete agentic AI ecosystem** — CLI, Web UI, and API.  
 Read code → Plan → Execute → Observe → Iterate.
 
-[🌍 Website](https://gem.sh) · [📥 Download](https://gem.sh/download) · [🧩 Plugins](https://gem.sh/plugins) · [📖 Docs](https://gem.sh/docs) · [💬 Discord](https://discord.gg/hintycloud) · [🐛 Report Bug](https://github.com/HintyCloud/Gem-Cli/issues)
+[🌍 Website](https://platformhintycloud.vercel.app) · [📥 Download](https://platformhintycloud.vercel.app/download) · [🧩 Plugins](https://platformhintycloud.vercel.app/plugins) · [📖 Docs](https://platformhintycloud.vercel.app/docs) · [🐛 Report Bug](https://github.com/HintyCloud/Gem-Cli/issues)
 
 </div>
 
